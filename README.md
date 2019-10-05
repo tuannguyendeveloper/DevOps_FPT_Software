@@ -14,3 +14,7 @@ Exam project devOps 2019
   docker build -t tomcat:0.0.1 -f Dockerfile .
   docker run -d --name tomcat -p 8080:8080 --network tuanna85-network tomcat:0.0.1
 ```
+# 4. Jenkins job
+```
+  https://jenkins.learn.akawork.io/job/TuanNA85/job/Pipeline-TuanNA85-Exam/
+```
